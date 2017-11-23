@@ -1,0 +1,1536 @@
+﻿Log file open, 11/23/17 16:51:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Shangda_Wus_Dice
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-853977181) SRandInit(-853977180).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.249522
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/UE/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.23-08.51.55:653][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.23-08.51.55:653][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.23-08.51.55:988][  0]LogInit: Computer: SHANGDA_WU
+[2017.11.23-08.51.55:989][  0]LogInit: User: Wu
+[2017.11.23-08.51.55:989][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.23-08.51.55:989][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2017.11.23-08.51.56:013][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2017.11.23-08.51.56:013][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.23-08.51.56:013][  0]LogMemory: Process Physical Memory: 272.85 MB used, 272.85 MB peak
+[2017.11.23-08.51.56:013][  0]LogMemory: Process Virtual Memory: 269.98 MB used, 269.98 MB peak
+[2017.11.23-08.51.56:013][  0]LogMemory: Physical Memory: 6362.43 MB used,  1647.52 MB free, 8009.96 MB total
+[2017.11.23-08.51.56:013][  0]LogMemory: Virtual Memory: 643.43 MB used,  1647.52 MB free, 134217728.00 MB total
+[2017.11.23-08.51.57:348][  0]LogInit: Overriding language with editor language configuration option (en).
+[2017.11.23-08.51.57:348][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2017.11.23-08.51.58:878][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.23-08.52.05:618][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.23-08.52.05:781][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2017.11.23-08.52.05:781][  0]LogD3D11RHI:       3037/0/4004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.23-08.52.05:893][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.11.23-08.52.05:893][  0]LogD3D11RHI:       128/0/4004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.23-08.52.05:895][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.23-08.52.05:895][  0]LogD3D11RHI:       0/0/4004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.23-08.52.05:895][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.23-08.52.05:904][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.23-08.52.05:904][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.23-08.52.05:904][  0]LogWindows: EnumDisplayDevices:
+[2017.11.23-08.52.05:905][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.11.23-08.52.05:922][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.11.23-08.52.05:923][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.11.23-08.52.05:924][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:1)
+[2017.11.23-08.52.05:925][  0]LogWindows:    4. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2017.11.23-08.52.05:926][  0]LogWindows:    5. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2017.11.23-08.52.05:928][  0]LogWindows:    6. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2017.11.23-08.52.05:929][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.23-08.52.05:929][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2017.11.23-08.52.05:929][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2017.11.23-08.52.05:929][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2017.11.23-08.52.05:929][  0]LogRHI: Texture pool is 2126 MB (70% of 3037 MB)
+[2017.11.23-08.52.06:027][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.23-08.52.06:546][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.23-08.52.07:091][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (../../../../Dice/Intermediate/Shaders/WorkingDirectory/20156/).
+[2017.11.23-08.52.07:092][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wu/AppData/Local/Temp/UnrealShaderWorkingDir/AB49981A42F7A060248236BF5BFC95F1/'.
+[2017.11.23-08.52.07:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.23-08.52.15:180][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.23-08.52.15:244][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.23-08.52.15:323][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.23-08.52.15:387][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.23-08.52.15:490][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.23-08.52.15:560][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.23-08.52.15:627][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.23-08.52.15:691][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.23-08.52.15:760][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.23-08.52.15:831][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.23-08.52.15:920][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.23-08.52.16:016][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.23-08.52.16:102][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.23-08.52.16:173][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.23-08.52.16:334][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.23-08.52.16:334][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.23-08.52.16:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.23-08.52.16:586][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.23-08.52.16:856][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.23-08.52.16:899][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.23-08.52.16:967][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.23-08.52.17:030][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.23-08.52.17:150][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.23-08.52.17:249][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.23-08.52.17:263][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.23-08.52.18:819][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.23-08.52.19:167][  0]LogDerivedDataCache: Loaded boot cache 0.34s 78MB C:/Users/Wu/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.23-08.52.19:167][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wu/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.23-08.52.19:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Dice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.23-08.52.19:167][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.23-08.52.19:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Dice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.23-08.52.19:167][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.23-08.52.19:271][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.23-08.52.19:287][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.23-08.52.19:458][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.23-08.52.19:561][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.23-08.52.19:677][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.23-08.52.19:696][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.23-08.52.30:137][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.23-08.52.33:412][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.23-08.52.33:473][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.23-08.52.33:473][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.23-08.52.33:473][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.23-08.52.33:473][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.23-08.52.33:473][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.23-08.52.34:436][  0]LogNetVersion: Shangda_Wus_Dice , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3761326692)
+[2017.11.23-08.52.37:461][  0]LogAssetRegistry: FAssetRegistry took 0.0455 seconds to start up
+[2017.11.23-08.52.50:036][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.282361 seconds
+[2017.11.23-08.52.50:167][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.23-08.52.50:168][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.23-08.52.50:168][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.23-08.52.50:326][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.23-08.53.40:112][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.23-08.53.40:215][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.23-08.53.43:511][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.23-08.53.45:865][  0]SourceControl: Source control is disabled
+[2017.11.23-08.53.45:880][  0]SourceControl: Source control is disabled
+[2017.11.23-08.53.46:150][  0]SourceControl: Source control is disabled
+[2017.11.23-08.53.46:259][  0]SourceControl: Source control is disabled
+[2017.11.23-08.53.48:668][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.23-08.53.49:083][  0]LogOcInput: OculusInput pre-init called
+[2017.11.23-08.53.50:349][  0]LogEngine: Initializing Engine...
+[2017.11.23-08.53.50:488][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.23-08.53.52:695][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.23-08.53.52:695][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.23-08.53.53:565][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-08.53.54:022][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-08.53.54:140][  0]LogInit: FAudioDevice initialized.
+[2017.11.23-08.53.54:313][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/Wu/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.23-08.53.54:330][  0]LogInit: Texture streaming: Enabled
+[2017.11.23-08.53.54:597][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.23-08.53.55:203][  0]LogInit: Transaction tracking system initialized
+[2017.11.23-08.53.56:447][  0]BlueprintLog: New page: Editor Load
+[2017.11.23-08.53.59:256][  0]LocalizationService: Localization service is disabled
+[2017.11.23-08.54.01:420][  0]LogConsoleResponse: Display: 
+[2017.11.23-08.54.05:485][  0]LogFileCache: Scanning file cache for directory 'D:/UE/Dice/Content/' took 0.13s
+[2017.11.23-08.54.05:485][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.23-08.54.05:504][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.23-08.54.05:527][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.23-08.54.10:319][  0]SourceControl: Source control is disabled
+[2017.11.23-08.54.10:356][  0]Cmd: MAP LOAD FILE="../../../../Dice/Content/GameLevel/Basis_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.23-08.54.10:357][  0]LogEditorServer: Warning: Can't find file '../../../../Dice/Content/GameLevel/Basis_Level.umap'
+[2017.11.23-08.54.10:369][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.23-08.54.10:472][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.687ms to complete.
+[2017.11.23-08.54.10:472][  0]LogFileHelpers: Loading map 'Basis_Level' took 0.128
+[2017.11.23-08.54.13:641][  0]LogCollectionManager: Loaded 0 collections in 0.037970 seconds
+[2017.11.23-08.54.14:000][  0]LogFileCache: Scanning file cache for directory 'D:/UE/Dice/Saved/Collections/' took 0.01s
+[2017.11.23-08.54.14:001][  0]LogFileCache: Scanning file cache for directory 'D:/UE/Dice/Content/Developers/Wu/Collections/' took 0.01s
+[2017.11.23-08.54.14:001][  0]LogFileCache: Scanning file cache for directory 'D:/UE/Dice/Content/Collections/' took 0.01s
+[2017.11.23-08.54.14:001][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.23-08.54.14:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0310 seconds. Added 2363 classes and 519 folders.
+[2017.11.23-08.54.14:270][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.23-08.54.16:477][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.23-08.54.16:634][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.23-08.54.18:643][  0]LogSlate: Took 0.019679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.23-08.54.18:700][  0]LogSlate: Took 0.009323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.23-08.54.18:901][  0]LogSlate: Took 0.020671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.23-08.54.20:342][  0]LogRenderer: Reallocating scene render targets to support 1272x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.23-08.54.22:396][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.23-08.54.22:396][  0]LogLoad: (Engine Initialization) Total time: 202.61 seconds
+[2017.11.23-08.54.22:396][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.23-08.54.22:406][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.23-08.54.23:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.23-08.54.24:543][  3]LogAssetRegistry: Asset discovery search completed in 107.1136 seconds
+[2017.11.23-08.54.24:558][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.23-08.54.24:559][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.003991 seconds (updated 0 objects)
+[2017.11.23-08.54.28:164][ 13]LogSlate: Took 0.023849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.23-09.01.01:750][ 30]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.23-09.01.02:511][ 30]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.23-09.01.03:093][ 30]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0304 seconds. Added 116 classes and 0 folders.
+[2017.11.23-09.01.06:515][ 30]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.23-09.01.06:547][ 30]LogSlate: Took 0.030650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.23-09.01.06:812][ 30]LogSlate: Took 0.106691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.23-09.06.41:544][947]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.07.54:564][160]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.09.09:147][255]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.09.24:436][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Real_life" FILE="../../../../Dice/Content/GameUI/UI_Real_life.uasset" SILENT=true
+[2017.11.23-09.09.24:726][675]LogSavePackage: Save=145.26ms
+[2017.11.23-09.09.24:726][675]LogSavePackage: Moving '../../../../Dice/Saved/UI_Real_lifeF1E9C59A43317B4F8354EB81119119BA.tmp' to '../../../../Dice/Content/GameUI/UI_Real_life.uasset'
+[2017.11.23-09.09.24:731][675]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Real_life.uasset
+[2017.11.23-09.09.45:601][863]LogSlate: Took 0.010891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.23-09.13.10:875][496]BlueprintLog: New page: Compile Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.15.31:363][612]BlueprintLog: New page: Compile UI_Dream_Life
+[2017.11.23-09.16.04:285][980]BlueprintLog: New page: Compile UI_Dream_Life
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [Shangda_Wus_Dice_Player_Controller] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameMode/Shangda_Wus_Dice_Player_Controller.Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [UI_Backpack_Display] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Backpack_Display.UI_Backpack_Display
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [UI_Backpack_Display] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Backpack_Display.UI_Backpack_Display
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [UI_Backpack_Display] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Backpack_Display.UI_Backpack_Display
+[2017.11.23-09.16.04:318][980]LogBlueprint: Warning: [UI_Backpack_Display] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Backpack_Display.UI_Backpack_Display
+[2017.11.23-09.16.04:321][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:321][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Performance_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Performance_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Performance_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Performance_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Performance_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:322][980]LogBlueprint: Warning: [UI_BackpackSlot] 'Item_Performance_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot
+[2017.11.23-09.16.04:325][980]LogBlueprint: Warning: [UI_Equipment_Display] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Equipment_Display.UI_Equipment_Display
+[2017.11.23-09.16.04:325][980]LogBlueprint: Warning: [UI_Equipment_Display] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Equipment_Display.UI_Equipment_Display
+[2017.11.23-09.16.04:328][980]LogBlueprint: Warning: [UI_Item_Menu] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Item_Menu.UI_Item_Menu
+[2017.11.23-09.16.04:328][980]LogBlueprint: Warning: [UI_Item_Menu] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Item_Menu.UI_Item_Menu
+[2017.11.23-09.16.04:328][980]LogBlueprint: Warning: [UI_Item_Menu] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Item_Menu.UI_Item_Menu
+[2017.11.23-09.16.04:328][980]LogBlueprint: Warning: [UI_Item_Menu] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Item_Menu.UI_Item_Menu
+[2017.11.23-09.16.04:328][980]LogBlueprint: Warning: [UI_Item_Menu] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Item_Menu.UI_Item_Menu
+[2017.11.23-09.16.04:328][980]LogBlueprint: Warning: [UI_Item_Menu] 'Item_Menu_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Item_Menu.UI_Item_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Equipment_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.16.04:331][980]LogBlueprint: Warning: [UI_Player_Menu] 'Backpack_Visibility' variable not found. Base class was probably changed. /Game/GameUI/UI_Player_Menu.UI_Player_Menu
+[2017.11.23-09.17.03:508][333]BlueprintLog: New page: Compile Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.18.25:694][993]BlueprintLog: New page: Compile UI_Backpack_Display
+[2017.11.23-09.19.01:769][ 50]BlueprintLog: New page: Compile UI_Equipment_Display
+[2017.11.23-09.19.03:387][118]BlueprintLog: New page: Compile UI_Backpack_Display
+[2017.11.23-09.19.54:297][424]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.20.20:297][870]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.21.19:795][131]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.21.41:988][423]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.22.49:074][913]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.22.50:247][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Real_life" FILE="../../../../Dice/Content/GameUI/UI_Real_life.uasset" SILENT=true
+[2017.11.23-09.22.50:325][968]LogSavePackage: Save=70.24ms
+[2017.11.23-09.22.50:325][968]LogSavePackage: Moving '../../../../Dice/Saved/UI_Real_life4AE412F440B5D51D17BE71980BF021A3.tmp' to '../../../../Dice/Content/GameUI/UI_Real_life.uasset'
+[2017.11.23-09.22.50:330][968]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Real_life.uasset
+[2017.11.23-09.23.32:370][191]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.23.34:021][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Real_life" FILE="../../../../Dice/Content/GameUI/UI_Real_life.uasset" SILENT=true
+[2017.11.23-09.23.34:097][274]LogSavePackage: Save=72.33ms
+[2017.11.23-09.23.34:097][274]LogSavePackage: Moving '../../../../Dice/Saved/UI_Real_life1ABD873F41A7A5DFAD4DF4BBBE377DA8.tmp' to '../../../../Dice/Content/GameUI/UI_Real_life.uasset'
+[2017.11.23-09.23.34:102][274]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Real_life.uasset
+[2017.11.23-09.23.40:793][669]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.23.41:085][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.23.41:311][669]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:23:41 AM)
+[2017.11.23-09.23.41:344][669]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.23.41:411][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066351s)
+[2017.11.23-09.23.41:412][669]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.23.41:422][669]LogPlayLevel: PIE: World Init took: (0.010584s)
+[2017.11.23-09.23.41:433][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.103185s)
+[2017.11.23-09.23.41:637][669]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.23.41:718][669]LogInit: FAudioDevice initialized.
+[2017.11.23-09.23.42:118][669]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.23.42:145][669]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.23.42
+[2017.11.23-09.23.42:162][669]LogWorld: Bringing up level for play took: 0.029052
+[2017.11.23-09.23.42:655][669]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.11.23-09.23.42:676][669]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.23.42:676][669]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.23.42:676][669]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.23.42:942][669]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0]  123
+[2017.11.23-09.23.42:993][669]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.23.43:030][669]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.744
+[2017.11.23-09.23.43:235][669]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.23-09.23.53:141][127]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:0362
+[2017.11.23-09.23.53:141][127]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.54:115][155]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:03C3
+[2017.11.23-09.23.54:115][155]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.54:637][169]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:0362
+[2017.11.23-09.23.54:638][169]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.54:846][175]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:03C3
+[2017.11.23-09.23.54:846][175]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.55:026][180]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:0362
+[2017.11.23-09.23.55:026][180]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.55:231][186]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:03C3
+[2017.11.23-09.23.55:231][186]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.55:961][207]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:0362
+[2017.11.23-09.23.55:961][207]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.56:140][212]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:03C3
+[2017.11.23-09.23.56:140][212]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.56:681][227]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:00EC
+[2017.11.23-09.23.56:681][227]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.56:859][232]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:014D
+[2017.11.23-09.23.56:859][232]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.57:060][238]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:00EC
+[2017.11.23-09.23.57:061][238]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.57:562][252]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:0362
+[2017.11.23-09.23.57:562][252]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.58:100][267]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:014D
+[2017.11.23-09.23.58:101][267]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.58:711][284]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:03C3
+[2017.11.23-09.23.58:712][284]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.59:241][299]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:00EC
+[2017.11.23-09.23.59:241][299]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.59:707][312]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:0362
+[2017.11.23-09.23.59:707][312]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.23.59:912][318]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Player_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.UI_Dream_Life_C_22.WidgetTree_6542.UI_Player_Menu
+	Function /Game/GameUI/UI_Player_Menu.UI_Player_Menu_C:ExecuteUbergraph_UI_Player_Menu:03C3
+[2017.11.23-09.23.59:912][318]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.00:125][324]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.00:298][329]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.00:835][344]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.01:326][358]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.01:495][363]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.01:725][369]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.01:882][373]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.02:081][378]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.02:276][383]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.02:453][388]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.03:442][416]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Equipment_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.04:305][441]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.04:518][447]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.24.04:703][452]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Player_Menu' from node: Set Backpack_Visibility in graph: EventGraph in object: UI_Player_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.25.48:788][266]BlueprintLog: New page: Compile UI_Player_Menu
+[2017.11.23-09.30.21:614][ 59]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.30.21:659][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.30.21:659][ 59]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:30:21 AM)
+[2017.11.23-09.30.21:660][ 59]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.30.21:660][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000739s)
+[2017.11.23-09.30.21:661][ 59]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.30.21:661][ 59]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2017.11.23-09.30.21:661][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001771s)
+[2017.11.23-09.30.21:789][ 59]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.30.21:867][ 59]LogInit: FAudioDevice initialized.
+[2017.11.23-09.30.21:945][ 59]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.30.21:947][ 59]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.30.21
+[2017.11.23-09.30.21:947][ 59]LogWorld: Bringing up level for play took: 0.001084
+[2017.11.23-09.30.21:948][ 59]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.30.21:948][ 59]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.30.21:948][ 59]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.30.22:047][ 59]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.30.22:047][ 59]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.30.22:052][ 59]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.766
+[2017.11.23-09.30.30:792][442]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.30.30:793][442]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Dream_Life_C_27.WidgetTree_7556.UI_Backpack_Display.WidgetTree_7558.UI_Backpack_Slot_9
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.30:793][442]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.31:214][450]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.30.31:225][450]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Dream_Life_C_27.WidgetTree_7556.UI_Backpack_Display.WidgetTree_7558.UI_Backpack_Slot_0
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.31:225][450]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.31:270][451]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-09.30.31:278][451]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Dream_Life_C_27.WidgetTree_7556.UI_Backpack_Display.WidgetTree_7558.UI_Backpack_Slot_2
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.31:278][451]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.32:288][472]LogBlueprintUserMessages: [UI_Dream_Life_C_27] 将物品添加到第0个格子
+[2017.11.23-09.30.44:991][765]LogBlueprintUserMessages: [UI_Backpack_Slot_24] 我鼠标选中24号格子
+[2017.11.23-09.30.45:055][766]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Real_Life_C_26.WidgetTree_7714.UI_Backpack_Display.WidgetTree_7747.UI_Backpack_Slot_24
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.45:055][766]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.45:330][770]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.30.46:690][790]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Real_Life_C_26.WidgetTree_7714.UI_Backpack_Display.WidgetTree_7747.UI_Backpack_Slot_0
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:200B
+[2017.11.23-09.30.46:690][790]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.46:690][790]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.30.47:669][805]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Real_Life_C_26.WidgetTree_7714.UI_Backpack_Display.WidgetTree_7747.UI_Backpack_Slot_0
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.47:669][805]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.52:514][876]LogBlueprintUserMessages: [UI_Backpack_Slot_34] 我鼠标选中34号格子
+[2017.11.23-09.30.52:571][877]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Real_Life_C_26.WidgetTree_7714.UI_Backpack_Display.WidgetTree_7747.UI_Backpack_Slot_34
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.52:571][877]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.30.52:572][877]LogBlueprintUserMessages: [UI_Backpack_Slot_15] 我鼠标选中15号格子
+[2017.11.23-09.30.52:639][878]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_BackpackSlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Real_Life_C_26.WidgetTree_7714.UI_Backpack_Display.WidgetTree_7747.UI_Backpack_Slot_15
+	Function /Game/GameUI/UI_BackpackSlot.UI_BackpackSlot_C:ExecuteUbergraph_UI_BackpackSlot:20D6
+[2017.11.23-09.30.52:639][878]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_BackpackSlot' from node: Set Item_Performance_Visibility in graph: EventGraph in object: UI_BackpackSlot with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.32.42:282][367]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-09.32.42:459][367]LogBlueprint: Warning: [Compiler UI_BackpackSlot] Could not find a variable named "Item_Performance_Visibility" in 'UI_Dream_Life_C'.
+Make sure 'UI_Dream_Life_C' has been compiled for  Set Item_Performance_Visibility
+[2017.11.23-09.32.42:459][367]LogBlueprint: Warning: [Compiler UI_BackpackSlot] Could not find a variable named "Item_Menu_Visibility" in 'UI_Dream_Life_C'.
+Make sure 'UI_Dream_Life_C' has been compiled for  Set Item_Menu_Visibility
+[2017.11.23-09.32.42:474][367]LogBlueprint: Error: [Compiler UI_BackpackSlot] The property associated with  Item Performance Visibility  could not be found
+[2017.11.23-09.32.42:475][367]LogBlueprint: Error: [Compiler UI_BackpackSlot] The property associated with  Item Menu Visibility  could not be found
+[2017.11.23-09.32.43:118][367]LogBlueprint: Warning: [Compiler UI_BackpackSlot] [2503.33] Compile of UI_BackpackSlot failed. 2 Fatal Issue(s) 2 Warning(s) [in 836 ms] (/Game/GameUI/UI_BackpackSlot.UI_BackpackSlot)
+[2017.11.23-09.33.39:417][943]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-09.33.42:195][ 34]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.33.42:247][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.33.42:247][ 34]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:33:42 AM)
+[2017.11.23-09.33.42:247][ 34]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.33.42:248][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000752s)
+[2017.11.23-09.33.42:249][ 34]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.33.42:249][ 34]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2017.11.23-09.33.42:249][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.002185s)
+[2017.11.23-09.33.42:435][ 34]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.33.42:548][ 34]LogInit: FAudioDevice initialized.
+[2017.11.23-09.33.42:631][ 34]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.33.42:632][ 34]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.33.42
+[2017.11.23-09.33.42:633][ 34]LogWorld: Bringing up level for play took: 0.000766
+[2017.11.23-09.33.42:634][ 34]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.33.42:634][ 34]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.33.42:634][ 34]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.33.42:746][ 34]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.33.42:746][ 34]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.33.42:753][ 34]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.467
+[2017.11.23-09.33.56:176][388]LogBlueprintUserMessages: [UI_Backpack_Slot_37] 我鼠标选中37号格子
+[2017.11.23-09.33.56:526][389]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.33.56:847][390]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.33.58:240][410]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.33.58:378][412]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.33.59:058][422]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.33.59:599][429]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	UI_Item_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.UI_Dream_Life_C_34.WidgetTree_9011.UI_Item_Menu
+	Function /Game/GameUI/UI_Item_Menu.UI_Item_Menu_C:ExecuteUbergraph_UI_Item_Menu:1610
+[2017.11.23-09.33.59:599][429]PIE: Error: Blueprint Runtime Error: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property? from function: 'ExecuteUbergraph_UI_Item_Menu' from node: Set Item_Menu_Visibility in graph: EventGraph in object: UI_Item_Menu with description: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+[2017.11.23-09.33.59:599][429]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.33.59:726][431]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.34.00:075][436]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.34.00:586][444]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.34.01:974][464]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.34.02:043][465]LogBlueprintUserMessages: [UI_Backpack_Slot_25] 我鼠标选中25号格子
+[2017.11.23-09.34.02:172][467]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.34.03:034][480]LogBlueprintUserMessages: [UI_Backpack_Slot_36] 我鼠标选中36号格子
+[2017.11.23-09.34.03:167][482]LogBlueprintUserMessages: [UI_Backpack_Slot_28] 我鼠标选中28号格子
+[2017.11.23-09.34.03:236][483]LogBlueprintUserMessages: [UI_Backpack_Slot_12] 我鼠标选中12号格子
+[2017.11.23-09.34.03:300][484]LogBlueprintUserMessages: [UI_Backpack_Slot_5] 我鼠标选中5号格子
+[2017.11.23-09.34.03:370][485]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-09.34.03:442][486]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.34.06:458][561]LogBlueprintUserMessages: [UI_Backpack_Slot_17] 我鼠标选中17号格子
+[2017.11.23-09.34.06:524][562]LogBlueprintUserMessages: [UI_Backpack_Slot_19] 我鼠标选中19号格子
+[2017.11.23-09.34.06:663][564]LogBlueprintUserMessages: [UI_Backpack_Slot_12] 我鼠标选中12号格子
+[2017.11.23-09.34.07:497][577]LogBlueprintUserMessages: [UI_Backpack_Slot_11] 我鼠标选中11号格子
+[2017.11.23-09.34.40:429][910]BlueprintLog: New page: Compile UI_Item_Menu
+[2017.11.23-09.34.40:493][910]LogBlueprint: Warning: [Compiler UI_Item_Menu] Could not find a variable named "Item_Menu_Visibility" in 'UI_Dream_Life_C'.
+Make sure 'UI_Dream_Life_C' has been compiled for  Set Item_Menu_Visibility
+[2017.11.23-09.34.40:493][910]LogBlueprint: Warning: [Compiler UI_Item_Menu] Could not find a variable named "Item_Menu_Visibility" in 'UI_Dream_Life_C'.
+Make sure 'UI_Dream_Life_C' has been compiled for  Set Item_Menu_Visibility
+[2017.11.23-09.34.40:496][910]LogBlueprint: Error: [Compiler UI_Item_Menu] The property associated with  Item Menu Visibility  could not be found
+[2017.11.23-09.34.40:496][910]LogBlueprint: Error: [Compiler UI_Item_Menu] The property associated with  Item Menu Visibility  could not be found
+[2017.11.23-09.34.40:868][910]LogBlueprint: Warning: [Compiler UI_Item_Menu] [2621.08] Compile of UI_Item_Menu failed. 2 Fatal Issue(s) 2 Warning(s) [in 439 ms] (/Game/GameUI/UI_Item_Menu.UI_Item_Menu)
+[2017.11.23-09.36.09:784][474]BlueprintLog: New page: Compile UI_Item_Menu
+[2017.11.23-09.37.14:913][860]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.37.14:975][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.37.14:975][860]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:37:14 AM)
+[2017.11.23-09.37.14:975][860]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.37.14:976][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000723s)
+[2017.11.23-09.37.14:977][860]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.37.14:977][860]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2017.11.23-09.37.14:977][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001879s)
+[2017.11.23-09.37.15:112][860]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.37.15:192][860]LogInit: FAudioDevice initialized.
+[2017.11.23-09.37.15:274][860]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.37.15:276][860]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.37.15
+[2017.11.23-09.37.15:277][860]LogWorld: Bringing up level for play took: 0.001159
+[2017.11.23-09.37.15:278][860]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.37.15:278][860]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.37.15:278][860]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.37.15:385][860]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.37.15:386][860]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.37.15:395][860]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.108
+[2017.11.23-09.37.25:652][195]LogBlueprintUserMessages: [UI_Backpack_Slot_16] 我鼠标选中16号格子
+[2017.11.23-09.37.25:662][195]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.37.25:942][199]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.37.26:221][203]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.37.26:872][212]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.37.26:944][213]LogBlueprintUserMessages: [UI_Backpack_Slot_17] 我鼠标选中17号格子
+[2017.11.23-09.37.27:013][214]LogBlueprintUserMessages: [UI_Backpack_Slot_25] 我鼠标选中25号格子
+[2017.11.23-09.37.31:829][317]LogBlueprintUserMessages: [UI_Backpack_Slot_25] 我鼠标选中25号格子
+[2017.11.23-09.37.34:379][353]LogBlueprintUserMessages: [UI_Backpack_Slot_11] 我鼠标选中11号格子
+[2017.11.23-09.37.34:453][354]LogBlueprintUserMessages: [UI_Backpack_Slot_3] 我鼠标选中3号格子
+[2017.11.23-09.39.47:855][760]BlueprintLog: New page: Compile Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.41.00:996][781]BlueprintLog: New page: Compile UI_Player_Menu
+[2017.11.23-09.41.01:703][792]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.41.01:753][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.41.01:753][792]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:41:01 AM)
+[2017.11.23-09.41.01:753][792]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.41.01:754][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000600s)
+[2017.11.23-09.41.01:754][792]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.41.01:754][792]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2017.11.23-09.41.01:755][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001552s)
+[2017.11.23-09.41.01:879][792]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.41.01:963][792]LogInit: FAudioDevice initialized.
+[2017.11.23-09.41.02:039][792]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.41.02:040][792]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.41.02
+[2017.11.23-09.41.02:041][792]LogWorld: Bringing up level for play took: 0.001045
+[2017.11.23-09.41.02:042][792]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.41.02:042][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.41.02:042][792]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.41.02:145][792]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.41.02:145][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.41.02:152][792]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.866
+[2017.11.23-09.41.09:101][123]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.41.10:230][139]LogBlueprintUserMessages: [UI_Backpack_Slot_24] 我鼠标选中24号格子
+[2017.11.23-09.41.11:357][155]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.41.11:718][160]LogBlueprintUserMessages: [UI_Backpack_Slot_10] 我鼠标选中10号格子
+[2017.11.23-09.41.11:781][161]LogBlueprintUserMessages: [UI_Backpack_Slot_3] 我鼠标选中3号格子
+[2017.11.23-09.41.11:788][161]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-09.41.14:391][199]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.41.14:458][200]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.41.14:962][207]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.41.15:031][208]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.41.15:104][209]LogBlueprintUserMessages: [UI_Backpack_Slot_32] 我鼠标选中32号格子
+[2017.11.23-09.41.25:426][650]BlueprintLog: New page: Compile UI_Player_Menu
+[2017.11.23-09.41.50:750][881]BlueprintLog: New page: Compile Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.41.52:009][906]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.41.52:067][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.41.52:067][906]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:41:52 AM)
+[2017.11.23-09.41.52:067][906]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.41.52:068][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000577s)
+[2017.11.23-09.41.52:068][906]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.41.52:068][906]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2017.11.23-09.41.52:069][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001412s)
+[2017.11.23-09.41.52:202][906]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.41.52:280][906]LogInit: FAudioDevice initialized.
+[2017.11.23-09.41.52:356][906]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.41.52:357][906]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.41.52
+[2017.11.23-09.41.52:358][906]LogWorld: Bringing up level for play took: 0.000815
+[2017.11.23-09.41.52:358][906]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.41.52:359][906]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.41.52:359][906]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.41.52:466][906]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.41.52:467][906]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.41.52:476][906]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.19
+[2017.11.23-09.42.06:735][344]LogBlueprintUserMessages: [UI_Backpack_Slot_34] 我鼠标选中34号格子
+[2017.11.23-09.42.06:801][345]LogBlueprintUserMessages: [UI_Backpack_Slot_5] 我鼠标选中5号格子
+[2017.11.23-09.42.07:197][351]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-09.42.07:267][352]LogBlueprintUserMessages: [UI_Backpack_Slot_32] 我鼠标选中32号格子
+[2017.11.23-09.42.19:357][610]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.42.19:562][613]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.42.19:697][615]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.42.20:095][621]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.42.20:624][629]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.42.49:485][581]BlueprintLog: New page: Compile UI_Dream_Life
+[2017.11.23-09.43.23:427][953]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.43.23:487][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.43.23:487][953]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:43:23 AM)
+[2017.11.23-09.43.23:487][953]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.43.23:488][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000619s)
+[2017.11.23-09.43.23:489][953]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.43.23:489][953]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.11.23-09.43.23:489][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001658s)
+[2017.11.23-09.43.23:623][953]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.43.23:703][953]LogInit: FAudioDevice initialized.
+[2017.11.23-09.43.23:771][953]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.43.23:772][953]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.43.23
+[2017.11.23-09.43.23:773][953]LogWorld: Bringing up level for play took: 0.000731
+[2017.11.23-09.43.23:774][953]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.43.23:774][953]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.43.23:774][953]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.43.23:886][953]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.43.23:887][953]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.43.23:893][953]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.606
+[2017.11.23-09.43.32:945][296]LogBlueprintUserMessages: [UI_Backpack_Slot_34] 我鼠标选中34号格子
+[2017.11.23-09.43.33:017][297]LogBlueprintUserMessages: [UI_Backpack_Slot_5] 我鼠标选中5号格子
+[2017.11.23-09.43.33:293][301]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-09.46.00:497][644]BlueprintLog: New page: Compile UI_Player_Menu
+[2017.11.23-09.46.01:320][660]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.46.01:369][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.46.01:369][660]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:46:01 AM)
+[2017.11.23-09.46.01:370][660]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.46.01:370][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000626s)
+[2017.11.23-09.46.01:371][660]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.46.01:371][660]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2017.11.23-09.46.01:371][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001722s)
+[2017.11.23-09.46.01:505][660]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.46.01:586][660]LogInit: FAudioDevice initialized.
+[2017.11.23-09.46.01:652][660]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.46.01:653][660]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.46.01
+[2017.11.23-09.46.01:653][660]LogWorld: Bringing up level for play took: 0.000716
+[2017.11.23-09.46.01:654][660]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.46.01:654][660]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.46.01:654][660]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.46.01:759][660]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.46.01:760][660]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.46.01:766][660]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.48
+[2017.11.23-09.46.09:807][991]LogBlueprintUserMessages: [UI_Backpack_Slot_32] 我鼠标选中32号格子
+[2017.11.23-09.46.11:907][ 21]LogBlueprintUserMessages: [UI_Backpack_Slot_20] 我鼠标选中20号格子
+[2017.11.23-09.46.11:908][ 21]LogBlueprintUserMessages: [UI_Backpack_Slot_12] 我鼠标选中12号格子
+[2017.11.23-09.46.12:570][ 31]LogBlueprintUserMessages: [UI_Backpack_Slot_27] 我鼠标选中27号格子
+[2017.11.23-09.46.25:488][316]LogBlueprintUserMessages: [UI_Item_Menu] 这根本就不是装备，你让我怎么装。
+[2017.11.23-09.46.27:075][346]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.46.27:144][347]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.46.27:285][349]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.28:120][361]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.46.28:255][363]LogBlueprintUserMessages: [UI_Backpack_Slot_10] 我鼠标选中10号格子
+[2017.11.23-09.46.28:396][365]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.46.28:541][367]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.30:500][395]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.31:485][409]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.46.32:042][417]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.35:214][461]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.46.35:488][465]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.36:120][474]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.36:776][483]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.37:130][488]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.37:349][491]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.37:561][494]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.38:064][501]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.38:578][508]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.46.38:726][510]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-09.47.53:817][276]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-09.49.08:135][334]BlueprintLog: New page: Compile UI_Player_Menu
+[2017.11.23-09.49.12:360][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Player_Menu" FILE="../../../../Dice/Content/GameUI/UI_Player_Menu.uasset" SILENT=true
+[2017.11.23-09.49.12:485][547]LogSavePackage: Save=83.43ms
+[2017.11.23-09.49.12:485][547]LogSavePackage: Moving '../../../../Dice/Saved/UI_Player_MenuC956631C42F1572B66DF6DBB14F1DF36.tmp' to '../../../../Dice/Content/GameUI/UI_Player_Menu.uasset'
+[2017.11.23-09.49.12:501][547]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Player_Menu.uasset
+[2017.11.23-09.49.13:321][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Item_Menu" FILE="../../../../Dice/Content/GameUI/UI_Item_Menu.uasset" SILENT=true
+[2017.11.23-09.49.13:563][590]LogSavePackage: Save=234.26ms
+[2017.11.23-09.49.13:563][590]LogSavePackage: Moving '../../../../Dice/Saved/UI_Item_MenuCB0C53FA472B7F2B9DEFA18AB796C07E.tmp' to '../../../../Dice/Content/GameUI/UI_Item_Menu.uasset'
+[2017.11.23-09.49.13:591][590]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Item_Menu.uasset
+[2017.11.23-09.49.14:021][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Real_life" FILE="../../../../Dice/Content/GameUI/UI_Real_life.uasset" SILENT=true
+[2017.11.23-09.49.14:097][609]LogSavePackage: Save=70.66ms
+[2017.11.23-09.49.14:097][609]LogSavePackage: Moving '../../../../Dice/Saved/UI_Real_life2B8136FF420DF55FE58F68A946E5F9FA.tmp' to '../../../../Dice/Content/GameUI/UI_Real_life.uasset'
+[2017.11.23-09.49.14:102][609]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Real_life.uasset
+[2017.11.23-09.49.15:419][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Dream_life" FILE="../../../../Dice/Content/GameUI/UI_Dream_life.uasset" SILENT=true
+[2017.11.23-09.49.15:649][682]LogSavePackage: Save=222.98ms
+[2017.11.23-09.49.15:649][682]LogSavePackage: Moving '../../../../Dice/Saved/UI_Dream_life4CA7528D45A43577091E3DA81A3839CB.tmp' to '../../../../Dice/Content/GameUI/UI_Dream_life.uasset'
+[2017.11.23-09.49.15:665][682]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Dream_life.uasset
+[2017.11.23-09.49.17:241][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Equipment_Display" FILE="../../../../Dice/Content/GameUI/UI_Equipment_Display.uasset" SILENT=true
+[2017.11.23-09.49.17:349][770]LogSavePackage: Save=102.05ms
+[2017.11.23-09.49.17:349][770]LogSavePackage: Moving '../../../../Dice/Saved/UI_Equipment_Display603705904F75307BABCB2BA68D368658.tmp' to '../../../../Dice/Content/GameUI/UI_Equipment_Display.uasset'
+[2017.11.23-09.49.17:355][770]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Equipment_Display.uasset
+[2017.11.23-09.49.18:307][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_BackpackSlot" FILE="../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset" SILENT=true
+[2017.11.23-09.49.18:733][820]LogSavePackage: Save=337.91ms
+[2017.11.23-09.49.18:733][820]LogSavePackage: Moving '../../../../Dice/Saved/UI_BackpackSlot3B8171E149295E003172D3BDFA8ADD88.tmp' to '../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset'
+[2017.11.23-09.49.18:774][820]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset
+[2017.11.23-09.49.20:973][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Backpack_Display" FILE="../../../../Dice/Content/GameUI/UI_Backpack_Display.uasset" SILENT=true
+[2017.11.23-09.49.21:253][946]LogSavePackage: Save=274.58ms
+[2017.11.23-09.49.21:253][946]LogSavePackage: Moving '../../../../Dice/Saved/UI_Backpack_Display721F78C341C5B5CEBEEF159F7DD17F24.tmp' to '../../../../Dice/Content/GameUI/UI_Backpack_Display.uasset'
+[2017.11.23-09.49.21:279][946]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Backpack_Display.uasset
+[2017.11.23-09.49.22:971][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Shangda_Wus_Dice_Player_Controller" FILE="../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset" SILENT=true
+[2017.11.23-09.49.23:160][ 39]LogSavePackage: Save=182.16ms
+[2017.11.23-09.49.23:160][ 39]LogSavePackage: Moving '../../../../Dice/Saved/Shangda_Wus_Dice_Player_ControllE97C7F19483C2B4C2AEB84BC8CDCCFF0.tmp' to '../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset'
+[2017.11.23-09.49.23:172][ 39]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset
+[2017.11.23-09.49.27:328][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.49.27:384][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.49.27:384][185]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:49:27 AM)
+[2017.11.23-09.49.27:384][185]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.49.27:385][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000741s)
+[2017.11.23-09.49.27:386][185]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.49.27:386][185]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2017.11.23-09.49.27:387][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.002348s)
+[2017.11.23-09.49.27:523][185]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.49.27:610][185]LogInit: FAudioDevice initialized.
+[2017.11.23-09.49.27:678][185]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.49.27:679][185]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.49.27
+[2017.11.23-09.49.27:679][185]LogWorld: Bringing up level for play took: 0.000684
+[2017.11.23-09.49.27:680][185]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.49.27:680][185]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.49.27:680][185]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.49.27:784][185]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.49.27:785][185]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.49.27:791][185]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.505
+[2017.11.23-09.49.55:481][654]BlueprintLog: New page: Compile Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.49.56:674][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Shangda_Wus_Dice_Player_Controller" FILE="../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset" SILENT=true
+[2017.11.23-09.49.56:820][675]LogSavePackage: Save=141.18ms
+[2017.11.23-09.49.56:820][675]LogSavePackage: Moving '../../../../Dice/Saved/Shangda_Wus_Dice_Player_Controll87E0675B4C63C493944E8AA9A9456BAD.tmp' to '../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset'
+[2017.11.23-09.49.56:824][675]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset
+[2017.11.23-09.49.58:478][768]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.49.58:529][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.49.58:530][768]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:49:58 AM)
+[2017.11.23-09.49.58:530][768]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.49.58:530][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000652s)
+[2017.11.23-09.49.58:531][768]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.49.58:531][768]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.11.23-09.49.58:531][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001672s)
+[2017.11.23-09.49.58:666][768]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.49.58:741][768]LogInit: FAudioDevice initialized.
+[2017.11.23-09.49.58:812][768]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.49.58:814][768]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.49.58
+[2017.11.23-09.49.58:814][768]LogWorld: Bringing up level for play took: 0.001310
+[2017.11.23-09.49.58:815][768]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.49.58:815][768]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.49.58:815][768]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.49.58:936][768]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.49.58:936][768]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.49.58:944][768]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.342
+[2017.11.23-09.50.01:168][808]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.50.01:258][809]LogBlueprintUserMessages: [UI_Backpack_Slot_17] 我鼠标选中17号格子
+[2017.11.23-09.50.01:327][810]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.50.03:438][840]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.04:376][854]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.06:368][881]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-09.50.06:438][882]LogBlueprintUserMessages: [UI_Backpack_Slot_5] 我鼠标选中5号格子
+[2017.11.23-09.50.06:503][883]LogBlueprintUserMessages: [UI_Backpack_Slot_6] 我鼠标选中6号格子
+[2017.11.23-09.50.10:554][949]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.11:334][960]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.11:829][967]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.11:898][968]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-09.50.11:967][969]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-09.50.16:988][ 93]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.50.17:054][ 94]LogBlueprintUserMessages: [UI_Backpack_Slot_16] 我鼠标选中16号格子
+[2017.11.23-09.50.17:116][ 95]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.50.17:371][ 99]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.17:754][105]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.18:671][119]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.19:066][125]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.19:261][128]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.19:456][131]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.19:664][134]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.19:855][137]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.20:047][140]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.20:180][142]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.50.22:285][173]LogBlueprintUserMessages: [UI_Backpack_Slot_34] 我鼠标选中34号格子
+[2017.11.23-09.50.22:351][174]LogBlueprintUserMessages: [UI_Backpack_Slot_20] 我鼠标选中20号格子
+[2017.11.23-09.50.23:281][187]LogBlueprintUserMessages: [UI_Backpack_Slot_26] 我鼠标选中26号格子
+[2017.11.23-09.52.51:582][428]BlueprintLog: New page: Compile Shangda_Wus_Dice_Player_Controller
+[2017.11.23-09.52.52:401][430]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.52.52:454][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.52.52:454][430]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:52:52 AM)
+[2017.11.23-09.52.52:454][430]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.52.52:455][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000603s)
+[2017.11.23-09.52.52:455][430]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.52.52:456][430]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2017.11.23-09.52.52:456][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001524s)
+[2017.11.23-09.52.52:584][430]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.52.52:662][430]LogInit: FAudioDevice initialized.
+[2017.11.23-09.52.52:736][430]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.52.52:737][430]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.52.52
+[2017.11.23-09.52.52:737][430]LogWorld: Bringing up level for play took: 0.000560
+[2017.11.23-09.52.52:738][430]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.52.52:738][430]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.52.52:738][430]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.52.52:853][430]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.52.52:854][430]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.52.52:861][430]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.425
+[2017.11.23-09.52.55:112][471]LogBlueprintUserMessages: [UI_Backpack_Slot_25] 我鼠标选中25号格子
+[2017.11.23-09.52.55:179][472]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.52.55:455][476]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.52.55:721][480]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.52.56:320][489]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.52.56:520][492]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.52.58:373][519]LogBlueprintUserMessages: [UI_Backpack_Slot_35] 我鼠标选中35号格子
+[2017.11.23-09.52.58:379][519]LogBlueprintUserMessages: [UI_Backpack_Slot_28] 我鼠标选中28号格子
+[2017.11.23-09.52.58:447][520]LogBlueprintUserMessages: [UI_Backpack_Slot_6] 我鼠标选中6号格子
+[2017.11.23-09.54.46:181][644]BlueprintLog: New page: Compile UI_Real_Life
+[2017.11.23-09.54.46:959][675]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.54.47:020][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.54.47:020][675]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:54:47 AM)
+[2017.11.23-09.54.47:020][675]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.54.47:021][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000698s)
+[2017.11.23-09.54.47:021][675]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.54.47:022][675]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2017.11.23-09.54.47:022][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001804s)
+[2017.11.23-09.54.47:149][675]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.54.47:229][675]LogInit: FAudioDevice initialized.
+[2017.11.23-09.54.47:297][675]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.54.47:298][675]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.54.47
+[2017.11.23-09.54.47:298][675]LogWorld: Bringing up level for play took: 0.000713
+[2017.11.23-09.54.47:299][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.54.47:299][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.54.47:299][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.54.47:417][675]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.54.47:417][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.54.47:422][675]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.136
+[2017.11.23-09.54.50:316][732]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.54.50:383][733]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.50:763][739]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.53:599][782]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.53:807][785]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.54.54:000][788]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.54:449][795]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.57:090][836]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.57:545][843]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.54.58:429][857]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.54.59:277][870]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.54.59:875][879]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.55.00:195][884]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.55.00:967][896]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.55.03:646][937]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.55.03:988][942]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.55.04:321][947]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.56.40:737][140]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.56.40:794][140]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.23-09.56.40:953][140]LogPlayLevel: [PlayLevel] Compiling Shangda_Wus_Dice_Player_Controller before play...
+[2017.11.23-09.56.41:507][140]LogPlayLevel: PlayLevel: Blueprint regeneration took 712 ms (1 blueprints)
+[2017.11.23-09.56.41:507][140]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:56:41 AM)
+[2017.11.23-09.56.41:507][140]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.56.41:508][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000664s)
+[2017.11.23-09.56.41:508][140]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.56.41:508][140]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2017.11.23-09.56.41:509][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001641s)
+[2017.11.23-09.56.41:640][140]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.56.41:724][140]LogInit: FAudioDevice initialized.
+[2017.11.23-09.56.41:801][140]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.56.41:802][140]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.56.41
+[2017.11.23-09.56.41:802][140]LogWorld: Bringing up level for play took: 0.000661
+[2017.11.23-09.56.41:803][140]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.56.41:803][140]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.56.41:803][140]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.56.41:917][140]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.56.41:917][140]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.56.41:925][140]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.639
+[2017.11.23-09.56.44:690][193]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.56.44:761][194]LogBlueprintUserMessages: [UI_Backpack_Slot_25] 我鼠标选中25号格子
+[2017.11.23-09.56.44:891][196]LogBlueprintUserMessages: [UI_Backpack_Slot_17] 我鼠标选中17号格子
+[2017.11.23-09.56.44:973][197]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.56.45:315][202]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.45:983][212]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.47:182][230]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.56.47:392][233]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-09.56.47:520][235]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.56.47:862][240]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.48:396][248]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.49:595][266]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-09.56.49:667][267]LogBlueprintUserMessages: [UI_Backpack_Slot_3] 我鼠标选中3号格子
+[2017.11.23-09.56.53:641][427]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-09.56.53:696][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-09.56.53:696][427]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 1:56:53 AM)
+[2017.11.23-09.56.53:696][427]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-09.56.53:696][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000629s)
+[2017.11.23-09.56.53:697][427]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-09.56.53:697][427]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.11.23-09.56.53:697][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001515s)
+[2017.11.23-09.56.53:864][427]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-09.56.53:949][427]LogInit: FAudioDevice initialized.
+[2017.11.23-09.56.54:029][427]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-09.56.54:030][427]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-17.56.54
+[2017.11.23-09.56.54:031][427]LogWorld: Bringing up level for play took: 0.001063
+[2017.11.23-09.56.54:032][427]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.56.54:032][427]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-09.56.54:032][427]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.56.54:148][427]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-09.56.54:149][427]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-09.56.54:157][427]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.871
+[2017.11.23-09.56.55:783][454]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.56.56:117][459]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.56:521][465]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.58:624][496]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.56.59:519][507]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.56.59:848][512]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.57.00:708][525]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-09.57.00:778][526]LogBlueprintUserMessages: [UI_Backpack_Slot_17] 我鼠标选中17号格子
+[2017.11.23-09.57.01:326][534]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-09.57.04:259][614]LogBlueprintUserMessages: [UI_Backpack_Slot_32] 我鼠标选中32号格子
+[2017.11.23-09.57.04:266][614]LogBlueprintUserMessages: [UI_Backpack_Slot_24] 我鼠标选中24号格子
+[2017.11.23-09.57.04:395][616]LogBlueprintUserMessages: [UI_Backpack_Slot_16] 我鼠标选中16号格子
+[2017.11.23-09.57.04:462][617]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-09.57.04:659][620]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.57.05:385][631]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-09.57.05:986][640]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-09.57.05:995][640]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-09.57.06:056][641]LogBlueprintUserMessages: [UI_Backpack_Slot_5] 我鼠标选中5号格子
+[2017.11.23-10.04.57:720][861]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-10.04.59:804][924]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-10.04.59:864][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-10.04.59:865][924]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 2:04:59 AM)
+[2017.11.23-10.04.59:865][924]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-10.04.59:865][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000619s)
+[2017.11.23-10.04.59:866][924]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-10.04.59:866][924]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2017.11.23-10.04.59:866][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001734s)
+[2017.11.23-10.05.00:002][924]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-10.05.00:087][924]LogInit: FAudioDevice initialized.
+[2017.11.23-10.05.00:162][924]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-10.05.00:163][924]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-18.05.00
+[2017.11.23-10.05.00:163][924]LogWorld: Bringing up level for play took: 0.000601
+[2017.11.23-10.05.00:164][924]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.05.00:164][924]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.05.00:164][924]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.05.00:287][924]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-10.05.00:288][924]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.05.00:298][924]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.012
+[2017.11.23-10.05.04:567][ 28]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-10.05.04:693][ 30]LogBlueprintUserMessages: [UI_Backpack_Slot_16] 我鼠标选中16号格子
+[2017.11.23-10.05.04:830][ 32]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-10.05.05:001][ 34]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.05.05:540][ 42]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.05.06:278][ 53]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-10.05.06:406][ 55]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-10.05.07:020][ 64]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.05.07:621][ 73]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.05.09:050][ 94]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-10.05.09:246][ 97]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-10.05.10:017][108]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.05.12:108][139]LogBlueprintUserMessages: [UI_Backpack_Slot_35] 我鼠标选中35号格子
+[2017.11.23-10.06.12:377][139]LogEditorTransaction: Undo Move Nodes
+[2017.11.23-10.07.27:878][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_BackpackSlot" FILE="../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset" SILENT=true
+[2017.11.23-10.07.28:239][ 24]LogSavePackage: Save=354.07ms
+[2017.11.23-10.07.28:239][ 24]LogSavePackage: Moving '../../../../Dice/Saved/UI_BackpackSlot9A8B40C84BDFF972BDB37DB0C7ECE415.tmp' to '../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset'
+[2017.11.23-10.07.28:244][ 24]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset
+[2017.11.23-10.07.28:863][ 54]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-10.08.38:545][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-10.08.38:605][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-10.08.38:605][576]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 2:08:38 AM)
+[2017.11.23-10.08.38:605][576]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-10.08.38:606][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000772s)
+[2017.11.23-10.08.38:606][576]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-10.08.38:607][576]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2017.11.23-10.08.38:607][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001941s)
+[2017.11.23-10.08.38:740][576]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-10.08.38:821][576]LogInit: FAudioDevice initialized.
+[2017.11.23-10.08.38:903][576]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-10.08.38:904][576]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-18.08.38
+[2017.11.23-10.08.38:904][576]LogWorld: Bringing up level for play took: 0.000843
+[2017.11.23-10.08.38:905][576]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.08.38:905][576]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.08.38:905][576]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.08.39:017][576]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-10.08.39:018][576]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.08.39:027][576]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.259
+[2017.11.23-10.08.41:563][624]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-10.08.41:628][625]LogBlueprintUserMessages: [UI_Backpack_Slot_25] 我鼠标选中25号格子
+[2017.11.23-10.08.41:699][626]LogBlueprintUserMessages: [UI_Backpack_Slot_17] 我鼠标选中17号格子
+[2017.11.23-10.08.41:774][627]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-10.08.41:964][630]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.08.43:030][646]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.08.44:573][669]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-10.08.45:350][680]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.08.45:955][689]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.08.48:111][721]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.48:117][721]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-10.08.48:915][733]LogBlueprintUserMessages: [UI_Dream_Life_C_52] 将物品添加到第1个格子
+[2017.11.23-10.08.49:271][738]LogBlueprintUserMessages: [UI_Backpack_Slot_3] 我鼠标选中3号格子
+[2017.11.23-10.08.49:346][739]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-10.08.49:556][742]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.50:199][751]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.52:719][786]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.54:215][807]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.55:393][823]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.55:739][828]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.57:270][849]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.57:624][854]LogBlueprintUserMessages: [UI_Backpack_Slot_1] 我鼠标选中1号格子
+[2017.11.23-10.08.59:831][883]LogBlueprintUserMessages: [UI_Backpack_Slot_9] 我鼠标选中9号格子
+[2017.11.23-10.09.01:522][904]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-10.09.01:759][907]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.09.02:372][915]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.09.03:660][932]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.09.04:055][937]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-10.09.07:603][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_BackpackSlot" FILE="../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset" SILENT=true
+[2017.11.23-10.09.08:015][ 23]LogSavePackage: Save=370.14ms
+[2017.11.23-10.09.08:015][ 23]LogSavePackage: Moving '../../../../Dice/Saved/UI_BackpackSlotCF6ABE27443A3843079EA1969AB53AE4.tmp' to '../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset'
+[2017.11.23-10.09.08:020][ 23]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset
+[2017.11.23-10.09.10:664][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Player_Menu" FILE="../../../../Dice/Content/GameUI/UI_Player_Menu.uasset" SILENT=true
+[2017.11.23-10.09.10:827][164]LogSavePackage: Save=156.32ms
+[2017.11.23-10.09.10:827][164]LogSavePackage: Moving '../../../../Dice/Saved/UI_Player_MenuB3DC057544CDAE11C24111A216329262.tmp' to '../../../../Dice/Content/GameUI/UI_Player_Menu.uasset'
+[2017.11.23-10.09.10:831][164]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Player_Menu.uasset
+[2017.11.23-10.09.11:582][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_Real_life" FILE="../../../../Dice/Content/GameUI/UI_Real_life.uasset" SILENT=true
+[2017.11.23-10.09.11:658][202]LogSavePackage: Save=69.77ms
+[2017.11.23-10.09.11:658][202]LogSavePackage: Moving '../../../../Dice/Saved/UI_Real_life2F1D011F4075F46496B31989F87B0182.tmp' to '../../../../Dice/Content/GameUI/UI_Real_life.uasset'
+[2017.11.23-10.09.11:663][202]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_Real_life.uasset
+[2017.11.23-10.09.14:345][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Shangda_Wus_Dice_Player_Controller" FILE="../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset" SILENT=true
+[2017.11.23-10.09.14:491][356]LogSavePackage: Save=139.11ms
+[2017.11.23-10.09.14:491][356]LogSavePackage: Moving '../../../../Dice/Saved/Shangda_Wus_Dice_Player_Controll65B62D9F4711AFE34DB3B08770788295.tmp' to '../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset'
+[2017.11.23-10.09.14:496][356]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameMode/Shangda_Wus_Dice_Player_Controller.uasset
+[2017.11.23-10.12.45:489][775]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-10.12.46:594][792]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-10.12.46:650][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-10.12.46:650][792]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 2:12:46 AM)
+[2017.11.23-10.12.46:650][792]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-10.12.46:651][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000666s)
+[2017.11.23-10.12.46:652][792]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-10.12.46:652][792]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2017.11.23-10.12.46:652][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001677s)
+[2017.11.23-10.12.46:792][792]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-10.12.46:875][792]LogInit: FAudioDevice initialized.
+[2017.11.23-10.12.46:949][792]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-10.12.46:951][792]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-18.12.46
+[2017.11.23-10.12.46:951][792]LogWorld: Bringing up level for play took: 0.000787
+[2017.11.23-10.12.46:952][792]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.12.46:952][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.12.46:952][792]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.12.47:064][792]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-10.12.47:064][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.12.47:073][792]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.214
+[2017.11.23-10.12.49:721][840]LogBlueprintUserMessages: [UI_Backpack_Slot_33] 我鼠标选中33号格子
+[2017.11.23-10.12.50:072][845]LogBlueprintUserMessages: [UI_Backpack_Slot_16] 我鼠标选中16号格子
+[2017.11.23-10.12.50:352][849]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.12.52:800][884]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.12.53:701][897]LogBlueprintUserMessages: [UI_Backpack_Slot_2] 我鼠标选中2号格子
+[2017.11.23-10.12.53:707][897]LogBlueprintUserMessages: [UI_Backpack_Slot_3] 我鼠标选中3号格子
+[2017.11.23-10.12.53:769][898]LogBlueprintUserMessages: [UI_Backpack_Slot_6] 我鼠标选中6号格子
+[2017.11.23-10.12.59:458][157]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-10.13.00:533][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-10.13.00:590][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-10.13.00:590][171]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 2:13:00 AM)
+[2017.11.23-10.13.00:590][171]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-10.13.00:591][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000655s)
+[2017.11.23-10.13.00:591][171]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-10.13.00:591][171]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2017.11.23-10.13.00:591][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001635s)
+[2017.11.23-10.13.00:724][171]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-10.13.00:806][171]LogInit: FAudioDevice initialized.
+[2017.11.23-10.13.00:888][171]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-10.13.00:890][171]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-18.13.00
+[2017.11.23-10.13.00:890][171]LogWorld: Bringing up level for play took: 0.001320
+[2017.11.23-10.13.00:891][171]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.13.00:891][171]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.13.00:891][171]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.13.01:004][171]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-10.13.01:005][171]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.13.01:013][171]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 -0.273
+[2017.11.23-10.13.03:248][209]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.13.05:064][235]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.13.09:636][404]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-10.13.11:567][467]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.23-10.13.11:621][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.23-10.13.11:621][467]PIE: New page: PIE session: Untitled_0 (Nov 24, 2017, 2:13:11 AM)
+[2017.11.23-10.13.11:621][467]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2017.11.23-10.13.11:622][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000813s)
+[2017.11.23-10.13.11:622][467]LogAIModule: Creating AISystem for world Untitled
+[2017.11.23-10.13.11:623][467]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2017.11.23-10.13.11:623][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001822s)
+[2017.11.23-10.13.11:750][467]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.23-10.13.11:831][467]LogInit: FAudioDevice initialized.
+[2017.11.23-10.13.11:905][467]LogLoad: Game class is 'Shangda_Wus_Dice_Game_Mode_C'
+[2017.11.23-10.13.11:906][467]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2017.11.23-18.13.11
+[2017.11.23-10.13.11:906][467]LogWorld: Bringing up level for play took: 0.000606
+[2017.11.23-10.13.11:907][467]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.13.11:907][467]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.23-10.13.11:907][467]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.13.12:021][467]LogBlueprintUserMessages: [Shangda_Wus_Dice_Game_Mode_C_0] 123
+[2017.11.23-10.13.12:022][467]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.23-10.13.12:030][467]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.744
+[2017.11.23-10.13.14:245][506]LogBlueprintUserMessages: [UI_Backpack_Slot_24] 我鼠标选中24号格子
+[2017.11.23-10.13.14:325][507]LogBlueprintUserMessages: [UI_Backpack_Slot_16] 我鼠标选中16号格子
+[2017.11.23-10.13.14:459][509]LogBlueprintUserMessages: [UI_Backpack_Slot_8] 我鼠标选中8号格子
+[2017.11.23-10.13.14:610][511]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.13.16:498][538]LogBlueprintUserMessages: [UI_Backpack_Slot_0] 我鼠标选中0号格子
+[2017.11.23-10.13.17:264][549]LogBlueprintUserMessages: [UI_Backpack_Slot_4] 我鼠标选中4号格子
+[2017.11.23-10.13.23:829][865]BlueprintLog: New page: Compile UI_BackpackSlot
+[2017.11.23-10.16.15:288][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameUI/UI_BackpackSlot" FILE="../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset" SILENT=true
+[2017.11.23-10.16.15:650][ 11]LogSavePackage: Save=352.67ms
+[2017.11.23-10.16.15:650][ 11]LogSavePackage: Moving '../../../../Dice/Saved/UI_BackpackSlot11146435467D1C2D704C11B19D68ECD5.tmp' to '../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset'
+[2017.11.23-10.16.15:654][ 11]LogSavePackage: Display: Finished SavePackage ../../../../Dice/Content/GameUI/UI_BackpackSlot.uasset
+[2017.11.23-10.17.51:693][584]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2017.11.23-10.17.51:693][584]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2017.11.23-10.17.51:734][584]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2017.11.23-10.17.51:734][584]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2017.11.23-10.17.52:774][585]Cmd: QUIT_EDITOR
+[2017.11.23-10.17.54:035][585]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2017.11.23-10.17.54:035][585]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2017.11.23-10.17.56:173][585]LogExit: Preparing to exit.
+[2017.11.23-10.17.58:258][585]LogDirectoryWatcher: A directory notification for 'D:/UE/Dice/Content/' was aborted.
+[2017.11.23-10.18.00:796][585]LogExit: Editor shut down
+[2017.11.23-10.18.00:846][585]LogExit: Transaction tracking system shut down
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../../Dice/Content/' was aborted.
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.23-10.18.02:101][585]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.23-10.18.15:000][585]LogExit: Object subsystem successfully closed.
+[2017.11.23-10.18.18:074][585]LogD3D11RHI: Shutdown
+[2017.11.23-10.18.18:116][585]LogD3D11RHI: CleanupD3DDevice
+[2017.11.23-10.18.23:201][585]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.23-10.18.27:549][585]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.11.23-10.18.27:564][585]LogModuleManager: Shutting down and abandoning module SequencerWidgets (550)
+[2017.11.23-10.18.27:564][585]LogModuleManager: Shutting down and abandoning module BlueprintGraph (548)
+[2017.11.23-10.18.27:564][585]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (546)
+[2017.11.23-10.18.27:564][585]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2017.11.23-10.18.27:583][585]LogModuleManager: Shutting down and abandoning module AddContentDialog (542)
+[2017.11.23-10.18.27:617][585]LogDirectoryWatcher: A directory notification for 'D:/UE/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.23-10.18.28:022][585]LogModuleManager: Shutting down and abandoning module WidgetCarousel (541)
+[2017.11.23-10.18.28:022][585]LogModuleManager: Shutting down and abandoning module EditorWidgets (538)
+[2017.11.23-10.18.28:022][585]LogModuleManager: Shutting down and abandoning module CollectionManager (536)
+[2017.11.23-10.18.28:039][585]LogDirectoryWatcher: A directory notification for 'D:/UE/Dice/Content/Collections/' was aborted.
+[2017.11.23-10.18.28:039][585]LogDirectoryWatcher: A directory notification for 'D:/UE/Dice/Content/Developers/Wu/Collections/' was aborted.
+[2017.11.23-10.18.28:040][585]LogDirectoryWatcher: A directory notification for 'D:/UE/Dice/Saved/Collections/' was aborted.
+[2017.11.23-10.18.28:040][585]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.23-10.18.28:046][585]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.23-10.18.28:099][585]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.23-10.18.28:104][585]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.23-10.18.28:117][585]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.23-10.18.28:131][585]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.23-10.18.28:149][585]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.23-10.18.28:250][585]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.23-10.18.28:251][585]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.23-10.18.28:256][585]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.23-10.18.28:265][585]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.23-10.18.28:265][585]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.23-10.18.28:265][585]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.23-10.18.28:265][585]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.23-10.18.28:265][585]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.23-10.18.28:289][585]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.23-10.18.28:309][585]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.23-10.18.28:362][585]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.23-10.18.28:403][585]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.23-10.18.28:420][585]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.23-10.18.28:435][585]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.23-10.18.28:436][585]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.23-10.18.28:436][585]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.23-10.18.28:988][585]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.23-10.18.28:988][585]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.23-10.18.28:988][585]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.23-10.18.28:988][585]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.23-10.18.28:998][585]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.23-10.18.29:018][585]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.23-10.18.29:018][585]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.23-10.18.29:045][585]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.23-10.18.29:045][585]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.23-10.18.29:066][585]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.23-10.18.29:079][585]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.23-10.18.29:079][585]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.23-10.18.29:079][585]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.23-10.18.29:079][585]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.23-10.18.29:102][585]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.23-10.18.29:124][585]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.23-10.18.29:124][585]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.23-10.18.29:125][585]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.23-10.18.29:125][585]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.23-10.18.29:155][585]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.23-10.18.29:177][585]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.23-10.18.29:185][585]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.23-10.18.29:192][585]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.23-10.18.29:210][585]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.23-10.18.29:264][585]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.23-10.18.29:277][585]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.23-10.18.29:300][585]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.23-10.18.29:317][585]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.23-10.18.29:317][585]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.23-10.18.29:353][585]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.23-10.18.29:361][585]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.23-10.18.29:378][585]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.23-10.18.29:379][585]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.23-10.18.29:379][585]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.23-10.18.29:460][585]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.23-10.18.29:470][585]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.23-10.18.29:470][585]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.23-10.18.29:480][585]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.23-10.18.29:502][585]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.23-10.18.29:520][585]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.23-10.18.29:536][585]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.23-10.18.29:570][585]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.23-10.18.29:587][585]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.23-10.18.29:615][585]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.23-10.18.29:615][585]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.23-10.18.29:617][585]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.23-10.18.29:623][585]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.23-10.18.29:842][585]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.23-10.18.29:854][585]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.23-10.18.29:854][585]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.23-10.18.29:873][585]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.23-10.18.29:929][585]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.23-10.18.29:948][585]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.23-10.18.29:977][585]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.23-10.18.29:977][585]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.23-10.18.29:977][585]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.23-10.18.29:977][585]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.23-10.18.29:995][585]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.23-10.18.29:996][585]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.23-10.18.30:006][585]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.23-10.18.30:006][585]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.23-10.18.30:006][585]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.23-10.18.30:033][585]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.23-10.18.30:061][585]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.23-10.18.30:061][585]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.23-10.18.30:061][585]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.23-10.18.30:061][585]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.23-10.18.30:081][585]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.23-10.18.30:089][585]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.23-10.18.30:096][585]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.23-10.18.30:116][585]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.23-10.18.30:116][585]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.23-10.18.30:116][585]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.23-10.18.30:116][585]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.23-10.18.30:149][585]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.23-10.18.30:162][585]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.23-10.18.30:210][585]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.23-10.18.30:225][585]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.23-10.18.30:226][585]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.23-10.18.30:278][585]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.23-10.18.30:278][585]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.23-10.18.30:279][585]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.23-10.18.30:279][585]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.23-10.18.30:279][585]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.23-10.18.30:279][585]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.23-10.18.30:279][585]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.23-10.18.30:293][585]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.23-10.18.30:418][585]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.23-10.18.30:532][585]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.23-10.18.30:565][585]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.23-10.18.30:566][585]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.23-10.18.30:566][585]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.23-10.18.30:573][585]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.23-10.18.30:573][585]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.23-10.18.30:577][585]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.23-10.18.30:577][585]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.23-10.18.30:622][585]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.23-10.18.30:639][585]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.23-10.18.30:672][585]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.23-10.18.30:709][585]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.23-10.18.30:709][585]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.23-10.18.30:709][585]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.23-10.18.30:743][585]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.23-10.18.30:743][585]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.23-10.18.30:749][585]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.23-10.18.30:749][585]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.23-10.18.30:749][585]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.23-10.18.30:788][585]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.23-10.18.30:813][585]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.23-10.18.30:813][585]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.23-10.18.30:852][585]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.23-10.18.30:864][585]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.23-10.18.30:875][585]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.23-10.18.30:876][585]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.23-10.18.30:941][585]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.23-10.18.30:941][585]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.23-10.18.30:941][585]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.23-10.18.30:941][585]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.23-10.18.30:961][585]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.23-10.18.30:961][585]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.23-10.18.31:028][585]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.23-10.18.31:039][585]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.23-10.18.31:048][585]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.23-10.18.31:048][585]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.23-10.18.31:071][585]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.23-10.18.31:082][585]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.23-10.18.31:082][585]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.23-10.18.31:090][585]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.23-10.18.31:091][585]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.23-10.18.31:100][585]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.23-10.18.31:114][585]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.23-10.18.31:145][585]LogDerivedDataCache: Shutdown
+[2017.11.23-10.18.31:145][585]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.23-10.18.31:173][585]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.23-10.18.31:186][585]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.23-10.18.31:241][585]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.23-10.18.31:256][585]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.23-10.18.31:256][585]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.23-10.18.31:269][585]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.23-10.18.31:269][585]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.23-10.18.31:269][585]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.23-10.18.31:269][585]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.23-10.18.31:330][585]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.23-10.18.31:330][585]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.23-10.18.31:330][585]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.23-10.18.31:330][585]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.23-10.18.31:330][585]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.23-10.18.31:330][585]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.23-10.18.31:380][585]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.23-10.18.31:380][585]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.23-10.18.31:390][585]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.23-10.18.31:390][585]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.23-10.18.31:441][585]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.23-10.18.31:442][585]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.23-10.18.31:452][585]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.23-10.18.31:464][585]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.23-10.18.31:473][585]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.23-10.18.31:486][585]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.23-10.18.31:486][585]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.23-10.18.31:500][585]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.23-10.18.31:512][585]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.23-10.18.31:527][585]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.23-10.18.31:527][585]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.23-10.18.31:527][585]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.23-10.18.31:527][585]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.23-10.18.31:527][585]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.23-10.18.31:549][585]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.23-10.18.31:569][585]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.23-10.18.31:570][585]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.23-10.18.31:570][585]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.23-10.18.31:570][585]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.23-10.18.31:570][585]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.23-10.18.31:614][585]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.23-10.18.31:646][585]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.23-10.18.31:646][585]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.11.23-10.18.31:658][585]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEC5FDC0B-4855-E754-EB78-F98D58816D62%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=632252274a1a51c5d09319ad812ffc6f%7Cdfb84846bd18458ea4123b3e7e2ad85b%7C611662be-5782-4c58-b6ba-4e13bbc45909&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.23-10.18.31:658][585]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEC5FDC0B-4855-E754-EB78-F98D58816D62%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=632252274a1a51c5d09319ad812ffc6f%7Cdfb84846bd18458ea4123b3e7e2ad85b%7C611662be-5782-4c58-b6ba-4e13bbc45909&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.23-10.18.31:792][585]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.23-10.18.31:817][585]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.23-10.18.31:830][585]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.23-10.18.31:830][585]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.23-10.18.31:849][585]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.23-10.18.31:946][585]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.23-10.18.31:946][585]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.23-10.18.31:946][585]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.23-10.18.32:162][585]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.23-10.18.32:175][585]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.23-10.18.32:176][585]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.23-10.18.32:193][585]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.23-10.18.32:193][585]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.23-10.18.32:204][585]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.23-10.18.32:204][585]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.23-10.18.32:212][585]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.23-10.18.32:212][585]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.23-10.18.32:233][585]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.23-10.18.32:233][585]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.23-10.18.32:339][585]LogExit: Exiting.
+[2017.11.23-10.18.32:530][585]Log file closed, 11/23/17 18:18:32
